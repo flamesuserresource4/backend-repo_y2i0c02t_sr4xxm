@@ -1,33 +1,7 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [190] using StatReload
-INFO:     Started server process [192]
+INFO:     Started reloader process [232] using StatReload
+INFO:     Started server process [234]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:55328 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:57362 - "OPTIONS /places HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57362 - "OPTIONS /places HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57386 - "GET /places HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:57386 - "GET /places HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:57374 - "OPTIONS /tours HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57386 - "GET /tours HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:57374 - "OPTIONS /tours HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57386 - "GET /tours HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:57396 - "OPTIONS /cars HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57396 - "OPTIONS /cars HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57386 - "GET /cars HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:57386 - "GET /cars HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40418 - "GET /tours HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40420 - "GET /cars HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40420 - "GET /cars HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40424 - "GET /cars HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:57386 - "GET /places HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40420 - "GET /places HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40420 - "GET /places HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40418 - "GET /tours HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40418 - "GET /tours HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40430 - "GET /places HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40436 - "GET /places HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40436 - "GET /places HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40436 - "GET /tours HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:40436 - "GET /tours HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:38584 - "HEAD / HTTP/1.1" 405 Method Not Allowed
